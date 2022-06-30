@@ -1,5 +1,4 @@
 # JustH4WK
-!justhawka!(https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/tbvbvipimh2camf5nb2q)
 **JustH4WK** is a modfication of the critically acclaimed Tony Hawk's Pro Skater 4 developed by <a href="https://en.wikipedia.org/wiki/Neversoft" target="_blank">Neversoft</a> and published by <a href="https://en.wikipedia.org/wiki/Activision" target="_blank">Activision</a> which released in October of 2002.
 
 
