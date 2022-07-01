@@ -14,3 +14,4 @@ JustH4WK plans to include features like wall-plants/sticker-slaps, new maps, enh
 - [x] <a href="http://beta.openspy.net/en/" target="_blank">Openspy</a> EXE (for PC)
 - [ ] Xbox and PC crossplay
 
+Xbox soundtrack https://anonfiles.com/X0g6S3tfyf/xbox_soundtrack_7z
